@@ -8,7 +8,9 @@ Where can I get more information? https://discuss.flarum.org/d/27519-the-flarum-
 # FAQ.
 ## Want to use a language pack?
 Installing language packs is identical to installing an extension. You will be using composer to download and install the package to your Flarum installation. You can find detailed instructions on the readme file of every language pack. Being hosted in flarum-lang means, though, that there is a uniform way on how to get a new language pack:
-'composer require flarum-lang/french:*'
+
+´composer require flarum-lang/french:*´
+
 You can replace "french" with every other available repository that has a compatible package released. For details once again, I recommend reading the readme of the specific language pack.
 
 ## Interested in translating yourself?
